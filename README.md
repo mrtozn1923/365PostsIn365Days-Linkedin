@@ -75,3 +75,4 @@
 | 66 | Array Element Add & Remove | [array-element-add-remove >](https://www.linkedin.com/posts/mrtozn_array-element-add-remove-activity-6906606531111178241-MFMH) |
 | 67 | Reverse Text | [reverse-text >](https://www.linkedin.com/posts/mrtozn_reverse-text-activity-6906989442679324672-Bi7q) |
 | 68 | Theme Color | [theme-color >](https://www.linkedin.com/posts/mrtozn_theme-color-activity-6907347742042251264-Zza0) |
+| 69 | Data List | [data-list >](https://www.linkedin.com/posts/mrtozn_data-list-activity-6907705781253513216-uMo_) |
