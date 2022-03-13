@@ -78,4 +78,4 @@
 | 69 | Data List | [data-list >](https://www.linkedin.com/posts/mrtozn_data-list-activity-6907705781253513216-uMo_) |
 | 70 | IS.JS | [is-js >](https://www.linkedin.com/posts/mrtozn_isjs-activity-6908079698002460674-vYkO) | 
 | 71 | Unique Array Element | [unique-array-element >](https://www.linkedin.com/posts/mrtozn_unique-array-element-activity-6908450238697463808-dB3Z) |
-
+| 72 | QR Code Generator | [qr-code-generator >](https://www.linkedin.com/posts/mrtozn_qr-code-generator-activity-6908726593884418048-h945) |
