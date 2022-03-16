@@ -81,4 +81,5 @@
 | 72 | QR Code Generator | [qr-code-generator >](https://www.linkedin.com/posts/mrtozn_qr-code-generator-activity-6908726593884418048-h945) |
 | 73 | Image Map | [image-map >](https://www.linkedin.com/posts/mrtozn_image-map-activity-6909149293350150145-2YZZ) |
 | 74 | Computed Style | [computed-style >](https://www.linkedin.com/posts/mrtozn_computed-style-activity-6909536932330909696-cFKp) |
+| 75 | Locale Date Time | [locale-date-time >](https://www.linkedin.com/posts/mrtozn_locale-date-time-activity-6909900557671354368-4eeo) |
 
