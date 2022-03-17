@@ -82,4 +82,4 @@
 | 73 | Image Map | [image-map >](https://www.linkedin.com/posts/mrtozn_image-map-activity-6909149293350150145-2YZZ) |
 | 74 | Computed Style | [computed-style >](https://www.linkedin.com/posts/mrtozn_computed-style-activity-6909536932330909696-cFKp) |
 | 75 | Locale Date Time | [locale-date-time >](https://www.linkedin.com/posts/mrtozn_locale-date-time-activity-6909900557671354368-4eeo) |
-
+| 76 | Fetch API | [fetch-api >](https://www.linkedin.com/posts/mrtozn_fetch-api-activity-6910250401162227712-voNC?utm_source=linkedin_share&utm_medium=member_desktop_web) |
