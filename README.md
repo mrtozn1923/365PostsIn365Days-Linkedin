@@ -86,3 +86,4 @@
 | 77 | Drag and Drop API | [drag-and-drop >](https://www.linkedin.com/posts/mrtozn_drag-and-drop-api-activity-6910575832788791296-i4Zr?utm_source=linkedin_share&utm_medium=member_desktop_web) |
 | 78 | Blockquoute | [blockquoute >](https://www.linkedin.com/posts/mrtozn_blockquoute-activity-6910978190295322624-tl06?utm_source=linkedin_share&utm_medium=member_desktop_web) |
 | 79 | Geolocation API | [geolocation >](https://www.linkedin.com/posts/mrtozn_geolocation-activity-6911351184570077184-fv0K?utm_source=linkedin_share&utm_medium=member_desktop_web) |
+| 80 | Flexbox-1 | [flexbox-1 >](https://www.linkedin.com/posts/mrtozn_flexbox-1-activity-6911754015106043905-nrDF?utm_source=linkedin_share&utm_medium=member_desktop_web) |
