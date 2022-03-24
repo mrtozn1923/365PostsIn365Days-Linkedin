@@ -89,4 +89,6 @@
 | 80 | Flexbox-1 | [flexbox-1 >](https://www.linkedin.com/posts/mrtozn_flexbox-1-activity-6911754015106043905-nrDF?utm_source=linkedin_share&utm_medium=member_desktop_web) |
 | 81 | Flexbox-2 | [flexbox-2 >](https://www.linkedin.com/posts/mrtozn_flexbox-2-activity-6912096657702559744-PFeF?utm_source=linkedin_share&utm_medium=member_desktop_web) |
 | 82 | Image Preview| [image-preview >](https://www.linkedin.com/posts/mrtozn_image-preview-activity-6912430863855087616-B5Xa?utm_source=linkedin_share&utm_medium=member_desktop_web) |
+| 83 | This Keyword and Window Object| [this-and-window >](https://www.linkedin.com/posts/mrtozn_this-keyword-and-window-object-activity-6912714389401808896-jQng?utm_source=linkedin_share&utm_medium=member_desktop_web) |
+
 
