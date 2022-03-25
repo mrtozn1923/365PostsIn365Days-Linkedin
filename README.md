@@ -90,5 +90,7 @@
 | 81 | Flexbox-2 | [flexbox-2 >](https://www.linkedin.com/posts/mrtozn_flexbox-2-activity-6912096657702559744-PFeF?utm_source=linkedin_share&utm_medium=member_desktop_web) |
 | 82 | Image Preview| [image-preview >](https://www.linkedin.com/posts/mrtozn_image-preview-activity-6912430863855087616-B5Xa?utm_source=linkedin_share&utm_medium=member_desktop_web) |
 | 83 | This Keyword and Window Object| [this-and-window >](https://www.linkedin.com/posts/mrtozn_this-keyword-and-window-object-activity-6912714389401808896-jQng?utm_source=linkedin_share&utm_medium=member_desktop_web) |
+| 84 | Call Apply Bind Method| [call-apply-bind-method >](https://www.linkedin.com/posts/mrtozn_call-apply-bind-method-activity-6913177994337345536-ujST?utm_source=linkedin_share&utm_medium=member_desktop_web) |
+
 
 
