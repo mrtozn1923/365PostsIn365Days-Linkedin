@@ -91,6 +91,6 @@
 | 82 | Image Preview| [image-preview >](https://www.linkedin.com/posts/mrtozn_image-preview-activity-6912430863855087616-B5Xa?utm_source=linkedin_share&utm_medium=member_desktop_web) |
 | 83 | This Keyword and Window Object| [this-and-window >](https://www.linkedin.com/posts/mrtozn_this-keyword-and-window-object-activity-6912714389401808896-jQng?utm_source=linkedin_share&utm_medium=member_desktop_web) |
 | 84 | Call Apply Bind Method| [call-apply-bind-method >](https://www.linkedin.com/posts/mrtozn_call-apply-bind-method-activity-6913177994337345536-ujST?utm_source=linkedin_share&utm_medium=member_desktop_web) |
-| 85 | Immutability| [immutability >](https://www.linkedin.com/posts/mrtozn_immutability-activity-6913520282032828416-hZa6?utm_source=linkedin_share&utm_medium=member_desktop_web)|| 86 | Visibility Change Event| [visibility-change-event >](https://www.linkedin.com/posts/mrtozn_visibility-change-event-activity-6913870625635733504-IMok?utm_source=linkedin_share&utm_medium=member_desktop_web)
+| 85 | Immutability| [immutability >](https://www.linkedin.com/posts/mrtozn_immutability-activity-6913520282032828416-hZa6?utm_source=linkedin_share&utm_medium=member_desktop_web)|| 86 | Visibility Change Event| [visibility-change >](https://www.linkedin.com/posts/mrtozn_visibility-change-event-activity-6913870625635733504-IMok?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 
