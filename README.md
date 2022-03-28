@@ -93,6 +93,6 @@
 | 84 | Call Apply Bind Method| [call-apply-bind-method >](https://www.linkedin.com/posts/mrtozn_call-apply-bind-method-activity-6913177994337345536-ujST?utm_source=linkedin_share&utm_medium=member_desktop_web) |
 | 85 | Immutability| [immutability >](https://www.linkedin.com/posts/mrtozn_immutability-activity-6913520282032828416-hZa6?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 86 | Visibility Change Event| [visibility-change-event >](https://www.linkedin.com/posts/mrtozn_visibility-change-event-activity-6913870625635733504-IMok?utm_source=linkedin_share&utm_medium=member_desktop_web)|
-
+| 87 | Function Scope This| [function-scope-this >](https://www.linkedin.com/posts/mrtozn_function-scope-this-activity-6914198212597665792-77TA?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 
 
