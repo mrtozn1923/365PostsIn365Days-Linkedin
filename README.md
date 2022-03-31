@@ -96,4 +96,5 @@
 | 87 | Function Scope This| [function-scope-this >](https://www.linkedin.com/posts/mrtozn_function-scope-this-activity-6914198212597665792-77TA?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 88 | Babel JS| [babeljs >](https://www.linkedin.com/posts/mrtozn_babeljs-activity-6914601875245793280-G3Wi?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 89 | Resize Property| [resize-property >](https://www.linkedin.com/posts/mrtozn_resize-property-activity-6915010227830411264-VJev?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+| 90 | CSS Initial| [css-initial >](https://www.linkedin.com/posts/mrtozn_css-initial-activity-6915336691675185152-FePh?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 
