@@ -98,3 +98,4 @@
 | 89 | Resize Property| [resize-property >](https://www.linkedin.com/posts/mrtozn_resize-property-activity-6915010227830411264-VJev?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 90 | CSS Initial| [css-initial >](https://www.linkedin.com/posts/mrtozn_css-initial-activity-6915336691675185152-FePh?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 91 | CSS Inherit| [css-inherit >](https://www.linkedin.com/posts/mrtozn_css-inherit-activity-6915700739856027650-QrGi?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+| 92 | Contenteditable Attribute| [contenteditable >](https://www.linkedin.com/posts/mrtozn_contenteditable-attribute-activity-6915994955538661377-Z7oT?utm_source=linkedin_share&utm_medium=member_desktop_web)|
