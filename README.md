@@ -102,4 +102,5 @@
 | 93 | Video Controls| [video-controls >](https://www.linkedin.com/posts/mrtozn_video-controls-activity-6916438517594107904-b4s-?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 94 | JSON Viewer| [json-viewer >](https://www.linkedin.com/posts/mrtozn_json-viewer-activity-6916768360798072834-M2Xv?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 95 | Autofocus| [autofocus >](https://www.linkedin.com/posts/mrtozn_autofocus-activity-6917187430462672896-dycd?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+| 96 | Truncate Text| [truncate-text >](https://www.linkedin.com/posts/mrtozn_truncate-text-activity-6917561972146196480-QHaU?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 
