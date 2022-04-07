@@ -103,4 +103,5 @@
 | 94 | JSON Viewer| [json-viewer >](https://www.linkedin.com/posts/mrtozn_json-viewer-activity-6916768360798072834-M2Xv?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 95 | Autofocus| [autofocus >](https://www.linkedin.com/posts/mrtozn_autofocus-activity-6917187430462672896-dycd?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 96 | Truncate Text| [truncate-text >](https://www.linkedin.com/posts/mrtozn_truncate-text-activity-6917561972146196480-QHaU?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+| 97 | Override Function| [override-function >](https://www.linkedin.com/posts/mrtozn_override-function-activity-6917886806919106560-Yt60?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 
