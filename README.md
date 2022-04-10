@@ -106,3 +106,5 @@
 | 97 | Override Function| [override-function >](https://www.linkedin.com/posts/mrtozn_override-function-activity-6917886806919106560-Yt60?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 98 | Prototype| [prototype >](https://www.linkedin.com/posts/mrtozn_prototype-activity-6918237644183195648-5Ep9?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 99 | ES6 Class| [es6-class >](https://www.linkedin.com/posts/mrtozn_es6-class-activity-6918596147640971264-C42w?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+| 100 | Chrome Device| [chrome-device >](https://www.linkedin.com/posts/mrtozn_chrome-device-activity-6918877918458707968-skvG?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+
