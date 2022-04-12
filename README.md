@@ -108,6 +108,5 @@
 | 99 | ES6 Class| [es6-class >](https://www.linkedin.com/posts/mrtozn_es6-class-activity-6918596147640971264-C42w?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 100 | Chrome Device| [chrome-device >](https://www.linkedin.com/posts/mrtozn_chrome-device-activity-6918877918458707968-skvG?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 101 | Cursor Follower| [cursor-follower >](https://www.linkedin.com/posts/mrtozn_cursor-follower-activity-6919307337660784640-fiZR?utm_source=linkedin_share&utm_medium=member_desktop_web)|
-
-
+| 102 | Prototype Inheritance| [prototype-inheritance >](https://www.linkedin.com/posts/mrtozn_prototype-inheritance-activity-6919698574318391296-rx92?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 
