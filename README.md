@@ -112,5 +112,5 @@
 | 103 | ES6 Inheritance| [es6-inheritance >](https://www.linkedin.com/posts/mrtozn_es6-inheritance-activity-6920022346279849984-X1hC?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 104 | Wappalyzer Extension| [wappalyzer-extension >](https://www.linkedin.com/posts/mrtozn_wappalyzer-extension-activity-6920360512199213056-BKMm?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 105 | Import Cost| [import-cost >](https://www.linkedin.com/posts/mrtozn_import-cost-activity-6920704902901948416-z8GC?utm_source=linkedin_share&utm_medium=member_desktop_web)|
-
+| 106 | Private Properties| [private-properties >](https://www.linkedin.com/posts/mrtozn_private-properties-activity-6921113424739336192-X1uk?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 
