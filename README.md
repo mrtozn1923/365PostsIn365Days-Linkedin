@@ -4,7 +4,7 @@
 
 [Linkedin Profilim >](https://www.linkedin.com/in/mrtozn/)
 
-
+<!-- prettier-ignore -->
 | Gün   |      Konu      |  Link |
 |----------|-------------|------|
 | 1 | Callback Function | [callback-function >](https://www.linkedin.com/posts/mrtozn_callback-function-nedir-activity-6883149421173862400-WDox) |
@@ -113,4 +113,4 @@
 | 104 | Wappalyzer Extension| [wappalyzer-extension >](https://www.linkedin.com/posts/mrtozn_wappalyzer-extension-activity-6920360512199213056-BKMm?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 105 | Import Cost| [import-cost >](https://www.linkedin.com/posts/mrtozn_import-cost-activity-6920704902901948416-z8GC?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 106 | Private Properties| [private-properties >](https://www.linkedin.com/posts/mrtozn_private-properties-activity-6921113424739336192-X1uk?utm_source=linkedin_share&utm_medium=member_desktop_web)|
-
+| 107 | Neon Text| [neon-text >](https://www.linkedin.com/posts/mrtozn_neon-text-activity-6921468437915385856--Lvl?utm_source=linkedin_share&utm_medium=member_desktop_web)|
