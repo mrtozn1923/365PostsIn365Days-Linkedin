@@ -115,3 +115,4 @@
 | 106 | Private Properties| [private-properties >](https://www.linkedin.com/posts/mrtozn_private-properties-activity-6921113424739336192-X1uk?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 107 | Neon Text| [neon-text >](https://www.linkedin.com/posts/mrtozn_neon-text-activity-6921468437915385856--Lvl?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 108 | Shorten Console Log| [shorten-console-log >](https://www.linkedin.com/posts/mrtozn_shorten-console-log-activity-6921832100111257600-AEtf?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+| 109 | Custom Event| [custom-event >](https://www.linkedin.com/posts/mrtozn_custom-event-activity-6922156736858492928-E4QB?utm_source=linkedin_share&utm_medium=member_desktop_web)|
