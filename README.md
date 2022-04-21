@@ -117,3 +117,4 @@
 | 108 | Shorten Console Log| [shorten-console-log >](https://www.linkedin.com/posts/mrtozn_shorten-console-log-activity-6921832100111257600-AEtf?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 109 | Custom Event| [custom-event >](https://www.linkedin.com/posts/mrtozn_custom-event-activity-6922156736858492928-E4QB?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 110 | JS Important| [js-important >](https://www.linkedin.com/posts/mrtozn_js-important-activity-6922578355120709632-YoW6?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+| 111 | BDO Tag| [bdo-tag >](https://www.linkedin.com/posts/mrtozn_bdo-tag-activity-6922929019948584961-rc3c?utm_source=linkedin_share&utm_medium=member_desktop_web)|
