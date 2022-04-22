@@ -118,3 +118,4 @@
 | 109 | Custom Event| [custom-event >](https://www.linkedin.com/posts/mrtozn_custom-event-activity-6922156736858492928-E4QB?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 110 | JS Important| [js-important >](https://www.linkedin.com/posts/mrtozn_js-important-activity-6922578355120709632-YoW6?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 111 | BDO Tag| [bdo-tag >](https://www.linkedin.com/posts/mrtozn_bdo-tag-activity-6922929019948584961-rc3c?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+| 112 | Pointer Events| [pointer-events >](https://www.linkedin.com/posts/mrtozn_pointer-events-activity-6923242455848894464-_0_u?utm_source=linkedin_share&utm_medium=member_desktop_web)|
