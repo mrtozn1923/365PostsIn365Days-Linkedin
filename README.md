@@ -120,3 +120,4 @@
 | 111 | BDO Tag| [bdo-tag >](https://www.linkedin.com/posts/mrtozn_bdo-tag-activity-6922929019948584961-rc3c?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 112 | Pointer Events| [pointer-events >](https://www.linkedin.com/posts/mrtozn_pointer-events-activity-6923242455848894464-_0_u?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 113 | Flexbox Margin| [flexbox-margin >](https://www.linkedin.com/posts/mrtozn_flexbox-margin-activity-6923626367293009920-LNuJ?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+| 114 | Animate CSS| [animate-css >](https://www.linkedin.com/posts/mrtozn_animate-css-activity-6923989006418386944-atNG?utm_source=linkedin_share&utm_medium=member_desktop_web)|
