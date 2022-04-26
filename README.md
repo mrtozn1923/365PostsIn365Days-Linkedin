@@ -122,3 +122,4 @@
 | 113 | Flexbox Margin| [flexbox-margin >](https://www.linkedin.com/posts/mrtozn_flexbox-margin-activity-6923626367293009920-LNuJ?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 114 | Animate CSS| [animate-css >](https://www.linkedin.com/posts/mrtozn_animate-css-activity-6923989006418386944-atNG?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 115 | CSS Grid-1| [css-grid-1 >](https://www.linkedin.com/posts/mrtozn_css-grid-1-activity-6924386163394772992-IB9S?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+| 116 | CSS Grid-2| [css-grid-2 >](https://www.linkedin.com/posts/mrtozn_css-grid-2-activity-6924715949417766912-elHW?utm_source=linkedin_share&utm_medium=member_desktop_web)|
