@@ -126,3 +126,4 @@
 | 117 | CSS Typewriter| [css-typewriter >](https://www.linkedin.com/posts/mrtozn_css-typewriter-activity-6925102635939241984-t0-g?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 118 | Dynamic Import| [dynamic-import >](https://www.linkedin.com/posts/mrtozn_dynamic-import-activity-6925452532366336000-pmBK?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 119 | Width Auto| [width-auto >](https://www.linkedin.com/posts/mrtozn_width-auto-activity-6925827833097302016-Lhwv?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+| 120 | Purge CSS| [purge-css >](https://www.linkedin.com/posts/mrtozn_purge-css-activity-6926181800075513856-vtnc?utm_source=linkedin_share&utm_medium=member_desktop_web)|
