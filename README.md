@@ -129,3 +129,4 @@
 | 120 | Purge CSS| [purge-css >](https://www.linkedin.com/posts/mrtozn_purge-css-activity-6926181800075513856-vtnc?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 121 | Color Scheme| [color-scheme >](https://www.linkedin.com/posts/mrtozn_color-scheme-activity-6926546000429920256-z9aO?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 122 | JSON Server| [json-server >](https://www.linkedin.com/posts/mrtozn_json-server-activity-6926954334400229377-WgpE?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+| 123 | Intl Tel Input| [intl-tel-input >](https://www.linkedin.com/posts/mrtozn_intl-tel-input-activity-6927342634050990080-9qFi?utm_source=linkedin_share&utm_medium=member_desktop_web)|
