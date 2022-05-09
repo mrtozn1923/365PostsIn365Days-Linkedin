@@ -133,4 +133,4 @@
 | 124 | CSS Loading Animations| [css-loading-animations >](https://www.linkedin.com/posts/mrtozn_css-loading-animations-activity-6927630186070867969-FzTn?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 125 | Lottie Files Animation| [lottie-files >](https://www.linkedin.com/posts/mrtozn_lottie-files-activity-6928048033339211776-0k4V?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 126 | RoughJS| [roughjs >](https://www.linkedin.com/posts/mrtozn_roughjs-activity-6928342177819316224-ZLsS?utm_source=linkedin_share&utm_medium=member_desktop_web)|
-
+| 127 | Mockaroo Fake Data| [mockaroo-fake-data >](https://www.linkedin.com/posts/mrtozn_mockaroo-fake-data-activity-6929433015915823105-F2tQ?utm_source=linkedin_share&utm_medium=member_desktop_web)|
