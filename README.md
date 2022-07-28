@@ -136,4 +136,6 @@
 | 127 | Mockaroo Fake Data| [mockaroo-fake-data >](https://www.linkedin.com/posts/mrtozn_mockaroo-fake-data-activity-6929433015915823105-F2tQ?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 128 | Mutation Observer| [mutation-observer >](https://www.linkedin.com/posts/mrtozn_mutation-observer-activity-6949052606702919680-o-Qp?utm_source=linkedin_share&utm_medium=member_desktop_web)|
 | 129 | Image Downloader| [image-downloader >](https://www.linkedin.com/posts/mrtozn_image-downloader-activity-6954095872460627968-P3a1?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+| 130 | Viewport vs Device Resolution| [viewport-vs-device-resolution >](https://www.linkedin.com/posts/mrtozn_viewport-vs-device-resolution-activity-6958489605134299138-Xmr6?utm_source=linkedin_share&utm_medium=member_desktop_web)|
+
 
