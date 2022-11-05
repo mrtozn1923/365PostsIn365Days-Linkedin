@@ -142,5 +142,6 @@
 | 133 | GIT Stash| [GIT Stash >](https://www.linkedin.com/posts/mrtozn_git-stash-activity-6978064254583091200-1sae?utm_source=share&utm_medium=member_desktop)|
 | 134 | Dispatch Event| [Dispatch Event >](https://www.linkedin.com/posts/mrtozn_dispatch-event-activity-6984511296943611905-3oDH?utm_source=share&utm_medium=member_desktop)|
 | 135 | Slim Select| [Slim Select >](https://www.linkedin.com/posts/mrtozn_slim-select-activity-6987446296542343168-gIv5?utm_source=share&utm_medium=member_desktop)|
+| 136 | IIFE Scope| [IIFE Scope >](https://www.linkedin.com/posts/mrtozn_iife-scope-activity-6994661633247600640-y2hl?utm_source=share&utm_medium=member_desktop)|
 
 
