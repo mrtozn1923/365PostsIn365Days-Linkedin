@@ -144,5 +144,6 @@
 | 135 | Slim Select| [Slim Select >](https://www.linkedin.com/posts/mrtozn_slim-select-activity-6987446296542343168-gIv5?utm_source=share&utm_medium=member_desktop)|
 | 136 | IIFE Scope| [IIFE Scope >](https://www.linkedin.com/posts/mrtozn_iife-scope-activity-6994661633247600640-y2hl?utm_source=share&utm_medium=member_desktop)|
 | 137 | Viewport Meta Tag| [Viewport Meta Tag >](https://www.linkedin.com/posts/mrtozn_viewport-meta-tag-activity-7000130255717871616-YyMS?utm_source=share&utm_medium=member_desktop)|
+| 138 | ReplaceAll Alternative| [ReplaceAll Alternative >](https://www.linkedin.com/posts/mrtozn_replaceall-alternative-activity-7003420617131610112-mqKX?utm_source=share&utm_medium=member_desktop)|
 
 
