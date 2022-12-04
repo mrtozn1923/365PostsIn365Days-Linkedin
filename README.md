@@ -145,5 +145,6 @@
 | 136 | IIFE Scope| [IIFE Scope >](https://www.linkedin.com/posts/mrtozn_iife-scope-activity-6994661633247600640-y2hl?utm_source=share&utm_medium=member_desktop)|
 | 137 | Viewport Meta Tag| [Viewport Meta Tag >](https://www.linkedin.com/posts/mrtozn_viewport-meta-tag-activity-7000130255717871616-YyMS?utm_source=share&utm_medium=member_desktop)|
 | 138 | ReplaceAll Alternative| [ReplaceAll Alternative >](https://www.linkedin.com/posts/mrtozn_replaceall-alternative-activity-7003420617131610112-mqKX?utm_source=share&utm_medium=member_desktop)|
+| 139 | Ikon Kütüphaneleri| [Ikon Kütüphaneleri >](https://www.linkedin.com/posts/mrtozn_ikon-k%C3%BCt%C3%BCphaneleri-activity-7005215386879049729-5mOb?utm_source=share&utm_medium=member_desktop)|
 
 
