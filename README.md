@@ -146,5 +146,6 @@
 | 137 | Viewport Meta Tag| [Viewport Meta Tag >](https://www.linkedin.com/posts/mrtozn_viewport-meta-tag-activity-7000130255717871616-YyMS?utm_source=share&utm_medium=member_desktop)|
 | 138 | ReplaceAll Alternative| [ReplaceAll Alternative >](https://www.linkedin.com/posts/mrtozn_replaceall-alternative-activity-7003420617131610112-mqKX?utm_source=share&utm_medium=member_desktop)|
 | 139 | Ikon Kütüphaneleri| [Ikon Kütüphaneleri >](https://www.linkedin.com/posts/mrtozn_ikon-k%C3%BCt%C3%BCphaneleri-activity-7005215386879049729-5mOb?utm_source=share&utm_medium=member_desktop)|
+| 140 | Hayat Kurtaran Regex| [Hayat Kurtaran Regex >](https://www.linkedin.com/posts/mrtozn_hayat-kurtaran-regex-activity-7011779115787694081-WEzf?utm_source=share&utm_medium=member_desktop)|
 
 
