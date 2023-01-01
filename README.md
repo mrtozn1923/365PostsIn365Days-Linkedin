@@ -147,5 +147,6 @@
 | 138 | ReplaceAll Alternative| [ReplaceAll Alternative >](https://www.linkedin.com/posts/mrtozn_replaceall-alternative-activity-7003420617131610112-mqKX?utm_source=share&utm_medium=member_desktop)|
 | 139 | Ikon Kütüphaneleri| [Ikon Kütüphaneleri >](https://www.linkedin.com/posts/mrtozn_ikon-k%C3%BCt%C3%BCphaneleri-activity-7005215386879049729-5mOb?utm_source=share&utm_medium=member_desktop)|
 | 140 | Hayat Kurtaran Regex| [Hayat Kurtaran Regex >](https://www.linkedin.com/posts/mrtozn_hayat-kurtaran-regex-activity-7011779115787694081-WEzf?utm_source=share&utm_medium=member_desktop)|
+| 141 | Javascript Closure| [Javascript Closure >](https://www.linkedin.com/posts/mrtozn_javascript-closure-activity-7015243141649739776-qosP?utm_source=share&utm_medium=member_desktop)|
 
 
