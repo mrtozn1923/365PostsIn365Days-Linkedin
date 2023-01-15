@@ -149,4 +149,4 @@
 | 140 | Hayat Kurtaran Regex| [Hayat Kurtaran Regex >](https://www.linkedin.com/posts/mrtozn_hayat-kurtaran-regex-activity-7011779115787694081-WEzf?utm_source=share&utm_medium=member_desktop)|
 | 141 | Javascript Closure| [Javascript Closure >](https://www.linkedin.com/posts/mrtozn_javascript-closure-activity-7015243141649739776-qosP?utm_source=share&utm_medium=member_desktop)|
 | 142 | CSS Peek| [CSS Peek >](https://www.linkedin.com/posts/mrtozn_css-peek-activity-7016837319169044480-5CcI?utm_source=share&utm_medium=member_desktop)|
-
+| 143 | API Terminology Handbook-1| [API Terminology Handbook-1 >](https://www.linkedin.com/posts/mrtozn_api-terminology-handbook-1-activity-7020396567698259968-fm8g?utm_source=share&utm_medium=member_desktop)|
