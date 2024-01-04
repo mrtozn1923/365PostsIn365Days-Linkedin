@@ -154,3 +154,6 @@
 | 145 | Window Post Message| [Window Post Message >](https://www.linkedin.com/posts/mrtozn_window-post-message-activity-7040041595793981440-4nxa?utm_source=share&utm_medium=member_desktop)|
 | 146 | Node Version Manager| [Node Version Manager >](https://www.linkedin.com/posts/mrtozn_node-version-manager-activity-7075877054549753856-dUNb?utm_source=share&utm_medium=member_desktop)|
 | 147 | .NET Ecosystem| [.NET Ecosystem >](https://www.linkedin.com/posts/mrtozn_net-ecosystem-activity-7083923695047442432-oxP5?utm_source=share&utm_medium=member_desktop)|
+| 147 | Web Worker| [Web Worker >](https://www.linkedin.com/posts/mrtozn_web-worker-activity-7148742562504232960-iEbh?utm_source=share&utm_medium=member_desktop)|
+
+
