@@ -160,7 +160,7 @@
 | 151 | RxJS Nedir?| [RxJS Nedir? >](https://www.linkedin.com/posts/mrtozn_rxjs-nedir-activity-7152289080410550272-HJZG?utm_source=share&utm_medium=member_desktop)|
 | 152 | ATOB - BTOA Nedir?| [ATOB - BTOA Nedir? >](https://www.linkedin.com/posts/mrtozn_atob-btoa-activity-7152706010564943873-qp95?utm_source=share&utm_medium=member_desktop)|
 | 153 | Code Syntax Highlighting| [Code Syntax Highlighting >](https://www.linkedin.com/posts/mrtozn_code-syntax-highlighting-activity-7157014391694016512-8Llf?utm_source=share&utm_medium=member_desktop)|
-
+| 154 | VS Code Extensions | [VS Code Extensions >](https://www.linkedin.com/posts/mrtozn_vs-code-extensions-activity-7161416235971162114-eCrD?utm_source=share&utm_medium=member_desktop)|
 
 
 
