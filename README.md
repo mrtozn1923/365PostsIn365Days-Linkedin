@@ -162,5 +162,5 @@
 | 153 | Code Syntax Highlighting| [Code Syntax Highlighting >](https://www.linkedin.com/posts/mrtozn_code-syntax-highlighting-activity-7157014391694016512-8Llf?utm_source=share&utm_medium=member_desktop)|
 | 154 | VS Code Extensions | [VS Code Extensions >](https://www.linkedin.com/posts/mrtozn_vs-code-extensions-activity-7161416235971162114-eCrD?utm_source=share&utm_medium=member_desktop)|
 | 155 | JS Import and Export | [JS Import and Export >](https://www.linkedin.com/posts/mrtozn_js-import-and-export-type-activity-7164327907312484353-EJ_4?utm_source=share&utm_medium=member_desktop)|
-
+| 156 | Concurrency Effect | [Concurrency Effect >](https://www.linkedin.com/posts/mrtozn_concurrency-effect-activity-7169764674807230464-lmg4?utm_source=share&utm_medium=member_desktop)|
 
