@@ -163,4 +163,4 @@
 | 154 | VS Code Extensions | [VS Code Extensions >](https://www.linkedin.com/posts/mrtozn_vs-code-extensions-activity-7161416235971162114-eCrD?utm_source=share&utm_medium=member_desktop)|
 | 155 | JS Import and Export | [JS Import and Export >](https://www.linkedin.com/posts/mrtozn_js-import-and-export-type-activity-7164327907312484353-EJ_4?utm_source=share&utm_medium=member_desktop)|
 | 156 | Concurrency Effect | [Concurrency Effect >](https://www.linkedin.com/posts/mrtozn_concurrency-effect-activity-7169764674807230464-lmg4?utm_source=share&utm_medium=member_desktop)|
-| 157 | Concurrency Effect | [Design and Architecture Pattern >](https://www.linkedin.com/posts/mrtozn_designandarchitecturepattern-activity-7208027412637315074-go9p?utm_source=share&utm_medium=member_desktop)|
+| 157 | Design and Architecture Pattern | [Design and Architecture Pattern >](https://www.linkedin.com/posts/mrtozn_designandarchitecturepattern-activity-7208027412637315074-go9p?utm_source=share&utm_medium=member_desktop)|
