@@ -166,3 +166,4 @@
 | 157 | Design and Architecture Pattern | [Design and Architecture Pattern >](https://www.linkedin.com/posts/mrtozn_designandarchitecturepattern-activity-7208027412637315074-go9p?utm_source=share&utm_medium=member_desktop)|
 | 158 | Open Data Protocol(OData) | [Open Data Protocol(OData) >](https://www.linkedin.com/posts/mrtozn_open-protocol-data-odata-activity-7213168146604519424-oLUW?utm_source=share&utm_medium=member_desktop)|
 | 159 | Javascript Loop Scope | [Javascript Loop Scope >](https://www.linkedin.com/posts/mrtozn_javascript-loop-scope-activity-7303018690793398272-NHa4?utm_source=share&utm_medium=member_desktop)|
+| 160 | CSS Preprocessors | [CSS Preprocessors >](https://www.linkedin.com/posts/mrtozn_css-preprocessors-activity-7303751296564490240-UXMz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRlAg4B9JRWE1vDVTov7hhRY0xzEj9oha8)|
