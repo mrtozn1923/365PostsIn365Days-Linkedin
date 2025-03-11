@@ -167,3 +167,4 @@
 | 158 | Open Data Protocol(OData) | [Open Data Protocol(OData) >](https://www.linkedin.com/posts/mrtozn_open-protocol-data-odata-activity-7213168146604519424-oLUW?utm_source=share&utm_medium=member_desktop)|
 | 159 | Javascript Loop Scope | [Javascript Loop Scope >](https://www.linkedin.com/posts/mrtozn_javascript-loop-scope-activity-7303018690793398272-NHa4?utm_source=share&utm_medium=member_desktop)|
 | 160 | CSS Preprocessors | [CSS Preprocessors >](https://www.linkedin.com/posts/mrtozn_css-preprocessors-activity-7303751296564490240-UXMz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRlAg4B9JRWE1vDVTov7hhRY0xzEj9oha8)|
+| 161 | Browserlist | [Browserlist >](https://www.linkedin.com/posts/mrtozn_browserlist-activity-7305322294673858560--SMA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRlAg4B9JRWE1vDVTov7hhRY0xzEj9oha8)|
