@@ -168,3 +168,4 @@
 | 159 | Javascript Loop Scope | [Javascript Loop Scope >](https://www.linkedin.com/posts/mrtozn_javascript-loop-scope-activity-7303018690793398272-NHa4?utm_source=share&utm_medium=member_desktop)|
 | 160 | CSS Preprocessors | [CSS Preprocessors >](https://www.linkedin.com/posts/mrtozn_css-preprocessors-activity-7303751296564490240-UXMz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRlAg4B9JRWE1vDVTov7hhRY0xzEj9oha8)|
 | 161 | Browserlist | [Browserlist >](https://www.linkedin.com/posts/mrtozn_browserlist-activity-7305322294673858560--SMA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRlAg4B9JRWE1vDVTov7hhRY0xzEj9oha8)|
+| 162 | Asenkron.NET | [Asenkron.NET >](https://www.linkedin.com/posts/mrtozn_day162-asenkron-net-activity-7365819733750824961-kFtW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRlAg4B9JRWE1vDVTov7hhRY0xzEj9oha8)|
